@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ufdw" level="project" />
+    <orderEntry type="library" name="j4k2-natives-windows-amd64" level="project" />
+    <orderEntry type="library" name="jogl-all" level="project" />
+    <orderEntry type="library" name="jogl-all-natives-windows-i586" level="project" />
+    <orderEntry type="library" name="jogl-all-natives-windows-amd64" level="project" />
+    <orderEntry type="library" name="gluegen-rt" level="project" />
+    <orderEntry type="library" name="gluegen-rt-natives-windows-amd64" level="project" />
+    <orderEntry type="library" name="Chaplin" level="project" />
+    <orderEntry type="library" name="j4k2-natives-windows-amd641" level="project" />
+    <orderEntry type="library" name="com.mashape.unirest:unirest-java:1.4.7" level="project" />
+    <orderEntry type="library" name="org.json:json:20150729" level="project" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="j4k2-natives-windows-amd641">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/j4k2-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j4k2-natives-windows-i586.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
